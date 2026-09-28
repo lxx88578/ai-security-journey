@@ -1,0 +1,4 @@
+http://example.com/
+http://httpbin.org/anything/admin
+http://httpbin.org/anything/login
+http://httpbin.org/headers
